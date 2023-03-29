@@ -1,0 +1,37 @@
+.card{
+    font-family: Calibri;
+    font-weight: bolder;
+    width: 30vw;
+    height: 10vw;
+    background-color: lightgrey;
+    display: flex;
+    border: 2px solid black
+}
+.profile_pic{
+    margin-right: 10px;
+    width: 40%;
+    padding: 10px;
+}
+.profile_pic img{
+    width: 100%;
+    border: 2px solid black;
+    margin: 25px 10px
+}
+.profile_details{
+    width: 100%;
+    font-size: larger;
+    margin-top: 40px;
+    margin-left: 15px;
+}
+.name_details{
+    padding-bottom: 20px;
+}
+.misc_details{
+    padding: 0;
+    margin: 0;
+}
+.name, .job, .tele, .email{
+    padding: 0;
+    margin: 0;
+}
+
